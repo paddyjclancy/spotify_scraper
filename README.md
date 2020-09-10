@@ -1,4 +1,4 @@
-# :notes: Spotify Scraper Project :metal: :musical_note:
+# :notes: :hear_no_evil: Spotify Scraper Project :metal: :musical_note:
 
 - This project aims to utilise a web API of _Spotify_ in order to scrape data from the platform.
 
