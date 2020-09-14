@@ -8,6 +8,8 @@ The primary goal is to fetch all information relevant to tracks within **ANY** c
 
 With a tool such as this, we can gain significant insight into the listening habits of users. Whilst this is a personal project build - planned for practice and enjoyment - the scope for scrapers in general is vast. Outputted data may thus be applied in an array of sectors; from targeted marketing and advertising, to academic and medical research into more serious matters such as mental health in specific demographics.
 
+###### NB: You can fetch data of up to 99 songs in a single connection session. Now, these 99 songs can be divided into different playlists or can be present in a single playlist. If you will try to fetch information of more than 99 songs in a single connection session, then you will encounter an error and you will not be able to fetch the data, as per Spotify’s policy.
+
 #### Tools Practiced
 
 - **Spotify for Developers** - Web API allowing for any developer to integrate Spotify content into their own web applications.
