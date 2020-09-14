@@ -1,4 +1,4 @@
-# :notes: :hear_no_evil: Spotify Scraper Project :metal: :musical_note:
+# :notes: Spotify Scraper Project :musical_note:
 
 #### Intro
 
