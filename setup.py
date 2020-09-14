@@ -1,6 +1,8 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
+import numpy as np
+import pandas as pd
 
 
 # Personal client credentials abstracted into 'authorization.json'
@@ -45,3 +47,7 @@ for track in playlist_tracks_data['items']:
         artist_list.append(artist['name'])
     playlist_tracks_artists.append(artist_list)
     playlist_tracks_first_artists.append(artist_list[0])
+
+
+features = sp.audio_features(playlist_tracks_id)
+features_df = pd.DataFrame(data=features, columns=features[0].keys())
