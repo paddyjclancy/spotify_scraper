@@ -1,3 +1,8 @@
+# This build analyses two Spotify playlists, see playlists_like_dislike.json for URIs:
+#       1) Travelling Man (3h6Yw25svhWj5GZvRVGVW0)
+#       2) The COVID Project (0HL8G71TzGQXOjo81WSP5j)
+
+
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
