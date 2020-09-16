@@ -8,6 +8,11 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import json
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+%matplotlib inline # % is for magic functions
+
 
 
 # Personal client credentials abstracted into 'authorization.json'
@@ -69,3 +74,6 @@ features_df = features_df[['id', 'title', 'first_artist', 'all_artists',
                            'liveness', 'valence', 'tempo',
                            'duration_ms', 'time_signature']]
 features_df.tail()
+
+
+# Data Exploration
