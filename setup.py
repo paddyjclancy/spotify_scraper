@@ -108,4 +108,5 @@ features_df['num_segments'] = num_segments
 features_df.head()
 
 # Creating and naming CSV
-features_df.to_csv("playlist_" + str(playlist_index) + ".csv", encoding='utf-8',index="false")
+for i in playlists:
+    features_df.to_csv("playlist_" + str(playlist_index) + ".csv", encoding='utf-8',index="false")
