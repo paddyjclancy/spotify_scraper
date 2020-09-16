@@ -1,8 +1,8 @@
 # This build analyses two Spotify playlists, see playlists_like_dislike.json for URIs:
 #       1) Travelling Man (3h6Yw25svhWj5GZvRVGVW0)
 #       2) The COVID Project (0HL8G71TzGQXOjo81WSP5j)
-
-
+import inline as inline
+import matplotlib
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-%matplotlib inline # % is for magic functions
+# %matplotlib inline # % is for magic functions
 
 
 
@@ -77,3 +77,34 @@ features_df.tail()
 
 
 # Data Exploration
+plt.figure(figsize=(20,30))
+sns.countplot(features_df['first_artist'])
+plt.xticks(rotation=90)
+
+num_bars = []
+num_sections = []
+num_segments = []
+
+for i in range(0,len(features_df['id'])):
+    analysis = sp.audio_analysis(features_df.iloc[i]['id'])
+    num_bars.append(len(analysis['bars'])) # beats/time_signature
+    num_sections.append(len(analysis['sections']))
+    num_segments.append(len(analysis['segments']))
+
+plt.figure(figsize=(16,4))
+plt.subplot(1,3,1)
+plt.hist(num_bars, bins=20)
+plt.xlabel('num_bars')
+plt.subplot(1,3,2)
+plt.hist(num_sections, bins=20)
+plt.xlabel('num_sections')
+plt.subplot(1,3,3)
+plt.hist(num_segments, bins=20)
+plt.xlabel('num_segments')
+
+features_df['num_bars'] = num_bars
+features_df['num_sections'] = num_sections
+features_df['num_segments'] = num_segments
+features_df.head()
+
+features_df.to_csv("playlist_" + str(playlist_index) + ".csv", encoding='utf-8',index="false")
