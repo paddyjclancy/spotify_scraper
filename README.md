@@ -11,11 +11,15 @@ With a tool such as this, we can gain significant insight into the listening hab
 
 ###### NB: You can fetch data of up to 99 songs in a single connection session. If you will try to fetch information of more than this in a single session, then you will encounter an error and you will not be able to fetch the data, as per Spotify’s policy.
 
+
 #### Tools / Dependencies
+
+[Reference guide here](https://machinelearningknowledge.ai/tutorial-how-to-use-spotipy-api-to-scrape-spotify-data/#Data_Exploration)
 
 - **Spotify for Developers** - Web API allowing for any developer to integrate Spotify content into their own web applications.
 
 - **Spotipy** - Lightweight Python library for the Spotify Web API. With Spotipy you get full access to all of the music data provided by the Spotify platform.
+
 
 ## Current Status
 
@@ -24,7 +28,7 @@ With a tool such as this, we can gain significant insight into the listening hab
 
 **2)** When running the _setup.py_ file, a CSV file is created with all collated data relating to the FIRST ONLY playlist URI provided within _playlists_like_dislike.json_.
   - Need to incorporate For Loop in order to make multiple CSV files.
-  - Final lines of _setup.py_ 
+  - Final lines of _setup.py_
 
 **3)** Visual aids? Histograms, bar charts etc...
   - Code creates these, would be appealing to present
