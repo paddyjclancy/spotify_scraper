@@ -1,6 +1,5 @@
 # This build analyses two Spotify playlists, see playlists_like_dislike.json for URIs:
 #       1) Travelling Man (3h6Yw25svhWj5GZvRVGVW0)
-#       2) The COVID Project (0HL8G71TzGQXOjo81WSP5j)
 import inline as inline
 import matplotlib
 import spotipy
@@ -102,9 +101,11 @@ plt.subplot(1,3,3)
 plt.hist(num_segments, bins=20)
 plt.xlabel('num_segments')
 
+# Adding this data to array
 features_df['num_bars'] = num_bars
 features_df['num_sections'] = num_sections
 features_df['num_segments'] = num_segments
 features_df.head()
 
+# Creating and naming CSV
 features_df.to_csv("playlist_" + str(playlist_index) + ".csv", encoding='utf-8',index="false")
