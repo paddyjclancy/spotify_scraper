@@ -32,9 +32,10 @@ With a tool such as this, we can gain significant insight into the listening hab
   - Need to incorporate For Loop in order to make multiple CSV files.
   - Final lines of _setup.py_
 
-~~**3)** Visual aids? Histograms, bar charts etc...~~
+**3)** Visual aids? Histograms, bar charts etc...
   - ~~Code creates these, would be appealing to present~~
-  - **Error found to be due to '%matplotlib inline' being of incorrect format for PyCharm - 18/09**
+  - **Error found to be due to '%matplotlib inline' being of incorrect format for PyCharm - Now fixed - 18/09**
+  - More exploration with graphical data - give it a stronger sense of purpose / insight
 
 **4)** Like / Dislike element has been somewhat lost, find out what caused this abstraction
 
