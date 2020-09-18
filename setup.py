@@ -81,6 +81,8 @@ features_df.tail()
 plt.figure(figsize=(20,30))
 sns.countplot(features_df['first_artist'])
 plt.xticks(rotation=90)
+plt.savefig("playlist_" + str(playlist_index) + "_artists.png")
+
 
 num_bars = []
 num_sections = []
@@ -96,7 +98,7 @@ for i in range(0,len(features_df['id'])):
 plt.figure(figsize=(16,4))
 plt.subplot(1,3,1)
 plt.hist(num_bars, bins=20)
-plt.xlabel('Number of bars')
+plt.xlabel('Number of Bars')
 
 plt.subplot(1,3,2)
 plt.hist(num_sections, bins=20)
@@ -115,4 +117,5 @@ features_df.head()
 # Creating and naming CSV and PNG
 for i in playlists:
     features_df.to_csv("playlist_" + str(playlist_index) + ".csv", encoding='utf-8',index="false")
-    plt.savefig("playlist_" + str(playlist_index) + "_figs.png")
+
+plt.savefig("playlist_" + str(playlist_index) + "_figs.png")
