@@ -78,10 +78,12 @@ features_df.tail()
 
 
 # Data Exploration
-plt.figure(figsize=(20,30))
+plt.figure(figsize=(10,15))
 sns.countplot(features_df['first_artist'])
 plt.xticks(rotation=90)
 plt.savefig("playlist_" + str(playlist_index) + "_artists.png")
+plt.xlabel('Leading Artist')
+plt.ylabel('Appearances in Playlist')
 
 
 num_bars = []
