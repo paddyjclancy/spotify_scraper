@@ -78,14 +78,16 @@ features_df.tail()
 
 
 # Data Exploration
+# Artist graph
 plt.figure(figsize=(10,15))
 sns.countplot(features_df['first_artist'])
 plt.xticks(rotation=90)
-plt.savefig("playlist_" + str(playlist_index) + "_artists.png")
 plt.xlabel('Leading Artist')
 plt.ylabel('Appearances in Playlist')
 
+plt.savefig("playlist_" + str(playlist_index) + "_artists.png")
 
+# Track demographic graphs
 num_bars = []
 num_sections = []
 num_segments = []
