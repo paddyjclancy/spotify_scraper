@@ -1,7 +1,6 @@
 # This build analyses two Spotify playlists, see playlists_like_dislike.json for URIs:
 #       1) Travelling Man (3h6Yw25svhWj5GZvRVGVW0)
 import inline as inline
-import matplotlib
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
@@ -31,19 +30,22 @@ client_credentials_manager = SpotifyClientCredentials(
 
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-# URI is split by ':' to get the username and playlist ID
+# Getting information of tracks in Spotify playlist
+#    URI is split by ':' to get the username and playlist ID
 uri = playlist_uri
 username = uri.split(':')[2]
 playlist_id = uri.split(':')[4]
 
 results = sp.user_playlist(username, playlist_id, 'tracks')
 
+# Fetching details of the track like ID’s, Titles and Artists
 playlist_tracks_data = results['tracks']
 playlist_tracks_id = []
 playlist_tracks_titles = []
 playlist_tracks_artists = []
 playlist_tracks_first_artists = []
 
+# Going over each track of a playlist and adding the track Id, name and artist information to the dataframe of tracks
 for track in playlist_tracks_data['items']:
     playlist_tracks_id.append(track['track']['id'])
     playlist_tracks_titles.append(track['track']['name'])
@@ -55,6 +57,7 @@ for track in playlist_tracks_data['items']:
     playlist_tracks_first_artists.append(artist_list[0])
 
 
+# Extracting Audio Features of each track
 features = sp.audio_features(playlist_tracks_id)
 features_df = pd.DataFrame(data=features, columns=features[0].keys())
 
