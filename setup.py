@@ -10,9 +10,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# %matplotlib inline # % is for magic functions
-
-
 
 # Personal client credentials abstracted into 'authorization.json'
 credentials = json.load(open('authorization.json'))
