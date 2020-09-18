@@ -92,16 +92,19 @@ for i in range(0,len(features_df['id'])):
     num_sections.append(len(analysis['sections']))
     num_segments.append(len(analysis['segments']))
 
+# Plotting data graphs
 plt.figure(figsize=(16,4))
 plt.subplot(1,3,1)
 plt.hist(num_bars, bins=20)
-plt.xlabel('num_bars')
+plt.xlabel('Number of bars')
+
 plt.subplot(1,3,2)
 plt.hist(num_sections, bins=20)
-plt.xlabel('num_sections')
+plt.xlabel('Number of Sections')
+
 plt.subplot(1,3,3)
 plt.hist(num_segments, bins=20)
-plt.xlabel('num_segments')
+plt.xlabel('Number of Segments')
 
 # Adding this data to array
 features_df['num_bars'] = num_bars
@@ -109,7 +112,7 @@ features_df['num_sections'] = num_sections
 features_df['num_segments'] = num_segments
 features_df.head()
 
-# Creating and naming CSV
+# Creating and naming CSV and PNG
 for i in playlists:
     features_df.to_csv("playlist_" + str(playlist_index) + ".csv", encoding='utf-8',index="false")
     plt.savefig("playlist_" + str(playlist_index) + "_figs.png")
