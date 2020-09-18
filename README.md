@@ -17,6 +17,8 @@ With a tool such as this, we can gain significant insight into the listening hab
 [Reference guide here](https://machinelearningknowledge.ai/tutorial-how-to-use-spotipy-api-to-scrape-spotify-data/#Data_Exploration)
 
 - **Spotify for Developers** - Web API allowing for any developer to integrate Spotify content into their own web applications.
+  - Upon logging in to the Dev API (with standard Spotify account details), an application can be created by filling out a simple form - acknowledging that monetization on this level is strictly forbidden.
+  - Once created, the app will be assigned a **Client ID** and **Client Secret** 
 
 - **Spotipy** - Lightweight Python library for the Spotify Web API. With Spotipy you get full access to all of the music data provided by the Spotify platform.
 
