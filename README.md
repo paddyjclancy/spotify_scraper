@@ -18,7 +18,7 @@ With a tool such as this, we can gain significant insight into the listening hab
 
 - **Spotify for Developers** - Web API allowing for any developer to integrate Spotify content into their own web applications.
   - Upon logging in to the Dev API (with standard Spotify account details), an application can be created by filling out a simple form - acknowledging that monetization on this level is strictly forbidden.
-  - Once created, the app will be assigned a **Client ID** and **Client Secret** 
+  - Once created, the app will be assigned a **Client ID** and **Client Secret**
 
 - **Spotipy** - Lightweight Python library for the Spotify Web API. With Spotipy you get full access to all of the music data provided by the Spotify platform.
 
@@ -26,7 +26,7 @@ With a tool such as this, we can gain significant insight into the listening hab
 ## Current Status
 
 
-**1)** More pseudocode required for personal clarity.
+~~**1)** More pseudocode required for personal clarity~~
 
 **2)** When running the _setup.py_ file, a CSV file is created with all collated data relating to the FIRST ONLY playlist URI provided within _playlists_like_dislike.json_.
   - Need to incorporate For Loop in order to make multiple CSV files.
@@ -34,6 +34,7 @@ With a tool such as this, we can gain significant insight into the listening hab
 
 **3)** Visual aids? Histograms, bar charts etc...
   - Code creates these, would be appealing to present
+  - **Error found to be due to '%matplotlib inline' being of incorrect format for PyCharm - 18/09**
 
 **4)** Like / Dislike element has been somewhat lost, find out what caused this abstraction
 
