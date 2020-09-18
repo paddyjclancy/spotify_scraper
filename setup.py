@@ -1,6 +1,8 @@
 # This build analyses two Spotify playlists, see playlists_like_dislike.json for URIs:
 #       1) Travelling Man (3h6Yw25svhWj5GZvRVGVW0)
-import inline as inline
+
+import inline
+import matplotlib
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
@@ -8,7 +10,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+# %matplotlib inline
 
 # Personal client credentials abstracted into 'authorization.json'
 credentials = json.load(open('authorization.json'))
@@ -110,3 +112,4 @@ features_df.head()
 # Creating and naming CSV
 for i in playlists:
     features_df.to_csv("playlist_" + str(playlist_index) + ".csv", encoding='utf-8',index="false")
+    plt.savefig("playlist_" + str(playlist_index) + "_figs.png")
