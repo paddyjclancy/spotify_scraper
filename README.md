@@ -36,6 +36,16 @@ With a tool such as this, we can gain significant insight into the listening hab
   - ~~Code creates these, would be appealing to present~~
   - **Error found to be due to '%matplotlib inline' being of incorrect format for PyCharm - Now fixed - 18/09**
   - More exploration with graphical data - give it a stronger sense of purpose / insight
+  - **Available track analytics:**
+    - _mode:_ maj = 1. min = 0
+    - _key_
+    - _valence:_ general positivity
+    - _loudness_
+    - _danceability_
+    - _liveness_
+    - _tempo_
+    - _time_signature_
+
 
 **4)** Like / Dislike element has been somewhat lost, find out what caused this abstraction
 
