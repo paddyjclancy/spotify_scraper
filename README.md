@@ -5,9 +5,9 @@ This project aims to utilise a web API of _Spotify_ in order to scrape data from
 
 The primary goal is to fetch all information relevant to tracks within **ANY** playlist provided.
 
-This project allows access to some data Spotify usually doesn't show to the average consumer. There are quantified values for particular characteristics of almost every song - such as _danceability_, _energy_, and _liveness_. This additional data allows for the well known accuracies that Spotify algorithms produce for music listeners, and this utility can be applied in multiple directions.
+This project allows access to some data Spotify usually doesn't show to the average consumer. There are quantified values for relatively abstract characteristics of almost every track, such as _'danceability'_, _'energy'_, and _'liveness'_. This additional data gives rise to the well-known accuracies that Spotify's algorithms produce for music listeners, and this utility can be applied in multiple directions.
 
-With a tool such as this, we can gain significant insight into the listening habits of users. Whilst this is a personal project build - planned for practice and enjoyment - the scope for scrapers in general is vast. Outputted data may thus be applied in an array of sectors; from targeted marketing and advertising, to academic and medical research into more serious matters such as mental health in specific demographics.
+With a tool such as this, we can gain significant insight into the user on a variety of levels. Whilst this is a personal project build - planned for practice and enjoyment - the scope for scrapers in this context is potentially vast. Outputted data may thus be applied in an array of sectors; from targeted marketing and advertising, to academic and medical research into more serious matters such as mental health in specific demographics.
 
 ###### NB: You can fetch data of up to 99 songs in a single connection session. If you will try to fetch information of more than this in a single session, then you will encounter an error and you will not be able to fetch the data, as per Spotify’s policy.
 
