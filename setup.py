@@ -38,6 +38,7 @@ uri = playlist_uri
 username = uri.split(':')[2]
 playlist_id = uri.split(':')[4]
 playlist_title = uri.split(':')[3]
+playlist_title_format = str(playlist_title.lower().replace(' ', '_'))
 
 results = sp.user_playlist(username, playlist_id, 'tracks')
 
@@ -86,7 +87,7 @@ plt.xticks(rotation=90)
 plt.xlabel('Leading Artist')
 plt.ylabel('Appearances in Playlist')
 
-plt.savefig(str(playlist_title.lower().replace(' ', '_')) + "_artists.png")
+plt.savefig("output/" + playlist_title_format + "_artists.png")
 
 # Valence graph
 plt.figure(figsize=(9,4))
@@ -95,7 +96,7 @@ plt.xticks([])
 plt.xlabel(playlist_title)
 plt.ylabel('Mood Score')
 
-plt.savefig(str(playlist_title.lower().replace(' ', '_')) + "_valence.png")
+plt.savefig("output/" + playlist_title_format + "_valence.png")
 
 # Track demographic graphs
 num_bars = []
@@ -130,6 +131,7 @@ features_df.head()
 
 # Creating and naming CSV and PNG
 for i in playlists:
-    features_df.to_csv(str(playlist_title.lower().replace(' ', '_')) + ".csv", encoding='utf-8',index="false")
+    features_df.to_csv("output/" + playlist_title_format + ".csv", encoding='utf-8',index="false")
 
-plt.savefig(str(playlist_title.lower().replace(' ', '_')) + "_figs.png")
+
+plt.savefig("output/" + playlist_title_format + "_figs.png")
