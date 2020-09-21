@@ -81,7 +81,7 @@ features_df.tail()
 
 # Data Exploration
 # Artist graph
-plt.figure(figsize=(20, 30))
+plt.figure(figsize=(12, 12))
 sns.countplot(features_df['first_artist'])
 plt.xticks(rotation=90)
 plt.xlabel('Leading Artist')
