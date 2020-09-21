@@ -37,6 +37,7 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 uri = playlist_uri
 username = uri.split(':')[2]
 playlist_id = uri.split(':')[4]
+playlist_title = uri.split(':')[3]
 
 results = sp.user_playlist(username, playlist_id, 'tracks')
 
@@ -85,15 +86,16 @@ plt.xticks(rotation=90)
 plt.xlabel('Leading Artist')
 plt.ylabel('Appearances in Playlist')
 
-plt.savefig("playlist_" + str(playlist_index) + "_artists.png")
+plt.savefig(str(playlist_title.lower().replace(' ', '_')) + "_artists.png")
 
 # Valence graph
-plt.figure(figsize=(4,9))
-sns.countplot(features_df['valence'])
-plt.xlabel('Valence')
-plt.ylabel('Track')
+plt.figure(figsize=(9,4))
+sns.lineplot(x=features_df['id'], y=features_df['valence'])
+plt.xticks([])
+plt.xlabel(playlist_title)
+plt.ylabel('Mood Score')
 
-plt.savefig("playlist_" + str(playlist_index) + "_valence.png")
+plt.savefig(str(playlist_title.lower().replace(' ', '_')) + "_valence.png")
 
 # Track demographic graphs
 num_bars = []
@@ -128,6 +130,6 @@ features_df.head()
 
 # Creating and naming CSV and PNG
 for i in playlists:
-    features_df.to_csv("playlist_" + str(playlist_index) + ".csv", encoding='utf-8',index="false")
+    features_df.to_csv(str(playlist_title.lower().replace(' ', '_')) + ".csv", encoding='utf-8',index="false")
 
-plt.savefig("playlist_" + str(playlist_index) + "_figs.png")
+plt.savefig(str(playlist_title.lower().replace(' ', '_')) + "_figs.png")
