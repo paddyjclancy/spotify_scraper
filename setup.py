@@ -87,11 +87,11 @@ plt.ylabel('Appearances in Playlist')
 
 plt.savefig("playlist_" + str(playlist_index) + "_artists.png")
 
-# Mode graph
-plt.figure(figsize=(3,9))
-sns.countplot(features_df['mode'])
-plt.xlabel('Mode')
-plt.ylabel('Valence')
+# Valence graph
+plt.figure(figsize=(4,9))
+sns.countplot(features_df['valence'])
+plt.xlabel('Valence')
+plt.ylabel('Track')
 
 plt.savefig("playlist_" + str(playlist_index) + "_valence.png")
 
