@@ -1,5 +1,6 @@
 # This build analyses two Spotify playlists, see playlists_like_dislike.json for URIs:
 #       1) Travelling Man (3h6Yw25svhWj5GZvRVGVW0)
+from time import sleep
 
 import inline
 import matplotlib
@@ -78,7 +79,6 @@ features_df = features_df[['id', 'title', 'first_artist', 'all_artists',
                            'duration_ms', 'time_signature']]
 features_df.tail()
 
-
 # Data Exploration
 # Artist graph
 plt.figure(figsize=(12, 12))
@@ -87,7 +87,10 @@ plt.xticks(rotation=90)
 plt.xlabel('Leading Artist')
 plt.ylabel('Appearances in Playlist')
 
+print(f"Analysing playlist: {playlist_title}...")
+
 plt.savefig("output/" + playlist_title_format + "_artists.png")
+print("     - Artists")
 
 # Valence graph
 plt.figure(figsize=(9,4))
@@ -97,6 +100,17 @@ plt.xlabel(playlist_title)
 plt.ylabel('Mood Score')
 
 plt.savefig("output/" + playlist_title_format + "_valence.png")
+print("     - Valence")
+
+# Valence graph
+plt.figure(figsize=(9,4))
+sns.lineplot(x=features_df['id'], y=features_df['energy'])
+plt.xticks([])
+plt.xlabel(playlist_title)
+plt.ylabel('Energy Level Score')
+
+plt.savefig("output/" + playlist_title_format + "_energy.png")
+print("     - Energy")
 
 # Track demographic graphs
 num_bars = []
@@ -109,7 +123,7 @@ for i in range(0,len(features_df['id'])):
     num_sections.append(len(analysis['sections']))
     num_segments.append(len(analysis['segments']))
 
-# Plotting data graphs
+# Plotting figs
 plt.figure(figsize=(16,4))
 plt.subplot(1,3,1)
 plt.hist(num_bars, bins=20)
@@ -123,15 +137,18 @@ plt.subplot(1,3,3)
 plt.hist(num_segments, bins=20)
 plt.xlabel('Number of Segments')
 
-# Adding this data to array
 features_df['num_bars'] = num_bars
 features_df['num_sections'] = num_sections
 features_df['num_segments'] = num_segments
 features_df.head()
 
-# Creating and naming CSV and PNG
-for i in playlists:
-    features_df.to_csv("output/" + playlist_title_format + ".csv", encoding='utf-8',index="false")
-
+# Creating and naming CSV and _figs.PNG
+features_df.to_csv("output/" + playlist_title_format + ".csv", encoding='utf-8',index="false")
+print("     - Backend Data")
 
 plt.savefig("output/" + playlist_title_format + "_figs.png")
+print("     - Technical structure")
+sleep(0.5)
+print("\nAnalysis complete.")
+sleep(0.5)
+print(f"See output/{playlist_title_format}_ for visual analysis aids.")
