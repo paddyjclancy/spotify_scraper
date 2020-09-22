@@ -28,9 +28,9 @@ With a tool such as this, we can gain significant insight into the user on a var
 
 ~~**1)** More pseudocode required for personal clarity~~
 
-**2)** When running the _setup.py_ file, a CSV file is created with all collated data relating to the FIRST ONLY playlist URI provided within _playlists_like_dislike.json_.
-  - Need to incorporate For Loop in order to make multiple CSV files.
-  - Final lines of _setup.py_
+~~**2)** When running the _setup.py_ file, a CSV file is created with all collated data relating to the FIRST ONLY playlist URI provided within _playlists_like_dislike.json_.~~
+  - ~~Need to incorporate For Loop in order to make multiple CSV files.~~
+  - ~~Final lines of _setup.py_~~
 
 ~~**3)** Visual aids? Histograms, bar charts etc...~~
   - ~~Code creates these, would be appealing to present~~
