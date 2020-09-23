@@ -5,40 +5,55 @@
 3,5RrrQhJKKKMJt3wB5n2N3t,Living In A Ghost Town,The Rolling Stones,['The Rolling Stones'],0.679,0.697,4,-5.369,0,0.0148,0.0119,0.124,0.776,110.558,247011,4,112,11,858
 4,1gqTXnc7WXBI9AwcCiqcJ1,Jumpin' Jack Flash - Mono Version,The Rolling Stones,['The Rolling Stones'],0.571,0.901,3,-9.152,1,0.0457,0.205,0.0753,0.645,137.317,221747,4,125,12,769
 5,5lmGgOaixbwKHtpTzjJoqx,Under My Thumb,The Rolling Stones,['The Rolling Stones'],0.732,0.494,6,-13.571,0,0.299,0.205,0.0919,0.799,126.986,221533,4,115,10,840
-6,3hJLKtTpgct9Y9wKww0BiR,Miss You - Remastered,The Rolling Stones,['The Rolling Stones'],0.795,0.71,9,-4.746,0,0.443,0.0215,0.344,0.845,109.689,288667,4,131,15,1043
-7,2PzU4IB8Dr6mxV3lHuaG34,(I Can't Get No) Satisfaction - Mono Version,The Rolling Stones,['The Rolling Stones'],0.723,0.863,2,-7.89,1,0.0383,0.0317,0.128,0.931,136.302,222813,4,124,11,801
-8,1hIQPCM3oWXrpnXmgTDaKG,Can't You Hear Me Knocking - 2009 Mix,The Rolling Stones,['The Rolling Stones'],0.545,0.757,0,-5.228,1,0.408,0.045,0.16,0.714,152.217,436000,4,273,22,1635
-9,77oU2rjC5XbjQfNe3bD6so,Beast Of Burden - Remastered,The Rolling Stones,['The Rolling Stones'],0.783,0.878,1,-3.864,0,0.39,0.000778,0.0426,0.885,100.626,265173,4,110,12,892
-10,6lFZbCc7pn6Lme1NP7qQqQ,You Can't Always Get What You Want,The Rolling Stones,['The Rolling Stones'],0.32,0.62,0,-9.686,1,0.64,6.36e-05,0.253,0.472,86.327,448720,4,164,10,1687
-11,2AwSeJSTz0GRCknp6vxHTB,Rock And A Hard Place - 2009 Edit Re-Mastered Digital Version,The Rolling Stones,['The Rolling Stones'],0.636,0.944,9,-4.713,0,0.0108,9.82e-05,0.136,0.883,129.017,251360,4,133,10,904
-12,0aym2LBJBk9DAYuHHutrIl,Hey Jude - Remastered 2015,The Beatles,['The Beatles'],0.386,0.607,10,-7.7,1,0.0112,1.38e-05,0.088,0.532,147.207,425653,4,260,21,1354
-13,0j3p1p06deJ7f9xmJ9yG22,Back In The U.S.S.R. - Remastered 2009,The Beatles,['The Beatles'],0.48,0.969,9,-7.464,1,0.069,0.00022,0.0608,0.494,142.489,163453,4,94,6,634
-14,5NQYyej46WQkgCbnzGD21W,Dear Prudence - Remastered 2009,The Beatles,['The Beatles'],0.388,0.529,7,-10.533,1,0.16,0.0681,0.108,0.332,150.721,235773,4,145,7,695
-15,1gFNm7cXfG1vSMcxPpSxec,"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles,['The Beatles'],0.818,0.728,10,-8.331,1,0.232,0.0642,0.251,0.975,113.059,188960,4,88,9,679
-16,389QX9Q1eUOEZ19vtzzI9O,While My Guitar Gently Weeps - Remastered 2009,The Beatles,['The Beatles'],0.453,0.654,4,-8.855,0,0.0205,0.00395,0.172,0.702,115.0,285000,4,134,14,945
-17,1swmf4hFMJYRNA8Rq9PVaW,Martha My Dear - Remastered 2009,The Beatles,['The Beatles'],0.472,0.292,10,-11.591,1,0.872,0.0007,0.128,0.824,177.624,148573,4,110,8,495
-18,5jgFfDIR6FR0gvlA56Nakr,Blackbird - Remastered 2009,The Beatles,['The Beatles'],0.686,0.127,7,-14.361,1,0.754,1.41e-05,0.0573,0.372,93.699,138387,4,53,5,487
-19,5FnpXVgDOk2sLT58qM22Of,Julia - Remastered 2009,The Beatles,['The Beatles'],0.512,0.0953,2,-16.082,1,0.828,0.000268,0.117,0.193,134.706,176667,4,94,12,468
-20,64P3zpRsDHIk7YTpRtaKYL,Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009,The Beatles,['The Beatles'],0.523,0.731,2,-8.613,1,0.0207,0.000464,0.081,0.81,117.089,144773,4,71,6,549
-21,40d2EcaOOCUjDzzo2YvUWn,"Long, Long, Long - Remastered 2009",The Beatles,['The Beatles'],0.349,0.129,5,-15.883,1,0.539,0.405,0.192,0.163,104.837,186307,3,105,8,529
-22,1aOzDhi5a1RWWRy5dmYA8I,Revolution 1 - Remastered 2009,The Beatles,['The Beatles'],0.386,0.626,9,-9.451,1,0.0785,0.00164,0.621,0.695,98.425,255707,4,106,10,832
-23,32dnKMni3I3gwUbWp4mi45,"Shine On You Crazy Diamond, Pts. 1-5 - 2011 Remastered Version",Pink Floyd,['Pink Floyd'],0.266,0.294,7,-11.938,0,0.771,0.697,0.107,0.0397,137.941,811077,3,535,37,2139
-24,0i8ztWwkzwBJxviDMqYdMA,Welcome To The Machine - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.382,0.36,0,-12.442,1,0.52,0.171,0.0747,0.0362,133.273,451681,4,248,20,1071
-25,5nfMtk9Zty1AITVo4YDhbb,Have A Cigar - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.454,0.65,4,-10.191,0,0.407,0.0498,0.589,0.72,120.154,307733,4,156,11,1043
-26,7aE5WXu5sFeNRh3Z05wwu4,Wish You Were Here - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.481,0.262,7,-15.73,1,0.735,0.0114,0.832,0.375,122.883,334744,4,168,11,808
-27,2YMN5C5XDSsqCHSoJIbOzj,"Shine On You Crazy Diamond, Pts. 6-9 - 2011 Remastered Version",Pink Floyd,['Pink Floyd'],0.287,0.485,7,-13.155,0,0.577,0.898,0.322,0.127,135.86,747325,3,509,33,2116
-28,4xHWH1jwV5j4mBYRhxPbwZ,Time - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.358,0.48,9,-11.79,1,0.521,0.00428,0.178,0.356,120.317,413947,4,219,15,1389
-29,25tZHMv3ctlzqDaHAeuU9c,The Great Gig In The Sky - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.275,0.216,5,-13.818,1,0.768,0.897,0.0832,0.181,116.388,283872,4,136,10,675
-30,3zJRvtQkHQRTNEXSY8jQPR,Breathe (In The Air) - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.431,0.375,11,-15.142,0,0.391,0.721,0.143,0.258,128.153,169535,4,89,8,534
-31,23dTQ4fjLrPPbYHamkJDzo,Pigs (Three Different Ones) [2011 - Remaster],Pink Floyd,['Pink Floyd'],0.419,0.574,4,-12.221,0,0.102,0.462,0.895,0.345,129.26,685880,4,375,36,2433
-32,33MQVOulAb4ZlUP2l3yZBG,Sheep - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.28,0.716,9,-12.095,0,0.0648,0.512,0.512,0.0616,135.409,619079,4,340,19,2393
-33,7rPzEczIS574IgPaiPieS3,"Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",Pink Floyd,['Pink Floyd'],0.694,0.394,0,-15.881,1,0.0781,0.000677,0.247,0.719,104.126,238747,4,103,10,837
-34,5UJmwdqGP7RONuVzYnHjUp,Hey You - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.588,0.301,0,-14.979,1,0.221,0.00236,0.128,0.19,112.458,278441,4,130,12,855
-35,7Fg4jpwpkdkGCvq1rrXnvx,Comfortably Numb - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.472,0.366,11,-12.595,0,0.15,0.308,0.0837,0.171,127.167,382297,4,203,20,1141
-36,5kLg9cdm7LayfkyaxVZKdD,Marooned - 2011 Remaster,Pink Floyd,['Pink Floyd'],0.412,0.34,7,-14.836,1,0.386,0.574,0.12,0.144,74.212,330385,4,100,14,887
-37,6ATouqjf03zPCRCwE892UN,Take It Back - 2011 Remaster,Pink Floyd,['Pink Floyd'],0.469,0.602,7,-11.156,1,0.133,0.00613,0.273,0.131,112.427,372226,4,173,16,1393
-38,236mI0lz8JdQjlmijARSwY,High Hopes - 2011 Remaster,Pink Floyd,['Pink Floyd'],0.52,0.411,0,-12.536,0,0.202,0.153,0.351,0.28,75.235,510965,4,162,17,1302
-39,08QGWV2nWYOG60RMsVbMwA,5 A.M.,David Gilmour,['David Gilmour'],0.199,0.144,7,-17.358,1,0.931,0.879,0.0394,0.122,73.047,184880,4,59,3,454
-40,6IYLjqSKQ4ma8FwlZd9LLI,Rattle That Lock,David Gilmour,['David Gilmour'],0.71,0.62,0,-11.62,0,0.325,0.0,0.165,0.786,120.068,295573,4,145,11,982
-41,2ass5WHAxtgwlOGKItxoMi,Faces of Stone,David Gilmour,['David Gilmour'],0.369,0.315,2,-13.19,0,0.205,3.53e-05,0.102,0.102,149.878,332187,3,271,14,963
-42,2kG3PtuCAbyXGUyxqDAc8d,Today,David Gilmour,['David Gilmour'],0.507,0.617,4,-12.28,0,0.0402,0.000519,0.101,0.23,94.031,355680,4,138,11,1232
+6,52dm9op3rbfAkc1LGXgipW,Wild Horses - 2009 Mix,The Rolling Stones,['The Rolling Stones'],0.432,0.389,7,-6.517,1,0.687,0.0107,0.0788,0.158,139.506,341773,4,199,16,911
+7,3hJLKtTpgct9Y9wKww0BiR,Miss You - Remastered,The Rolling Stones,['The Rolling Stones'],0.795,0.71,9,-4.746,0,0.443,0.0215,0.344,0.845,109.689,288667,4,131,15,1043
+8,2PzU4IB8Dr6mxV3lHuaG34,(I Can't Get No) Satisfaction - Mono Version,The Rolling Stones,['The Rolling Stones'],0.723,0.863,2,-7.89,1,0.0383,0.0317,0.128,0.931,136.302,222813,4,124,11,801
+9,1hIQPCM3oWXrpnXmgTDaKG,Can't You Hear Me Knocking - 2009 Mix,The Rolling Stones,['The Rolling Stones'],0.545,0.757,0,-5.228,1,0.408,0.045,0.16,0.714,152.217,436000,4,273,22,1635
+10,77oU2rjC5XbjQfNe3bD6so,Beast Of Burden - Remastered,The Rolling Stones,['The Rolling Stones'],0.783,0.878,1,-3.864,0,0.39,0.000778,0.0426,0.885,100.626,265173,4,110,12,892
+11,6lFZbCc7pn6Lme1NP7qQqQ,You Can't Always Get What You Want,The Rolling Stones,['The Rolling Stones'],0.32,0.62,0,-9.686,1,0.64,6.36e-05,0.253,0.472,86.327,448720,4,164,10,1687
+12,2AwSeJSTz0GRCknp6vxHTB,Rock And A Hard Place - 2009 Edit Re-Mastered Digital Version,The Rolling Stones,['The Rolling Stones'],0.636,0.944,9,-4.713,0,0.0108,9.82e-05,0.136,0.883,129.017,251360,4,133,10,904
+13,0aym2LBJBk9DAYuHHutrIl,Hey Jude - Remastered 2015,The Beatles,['The Beatles'],0.386,0.607,10,-7.7,1,0.0112,1.38e-05,0.088,0.532,147.207,425653,4,260,21,1354
+14,0j3p1p06deJ7f9xmJ9yG22,Back In The U.S.S.R. - Remastered 2009,The Beatles,['The Beatles'],0.48,0.969,9,-7.464,1,0.069,0.00022,0.0608,0.494,142.489,163453,4,94,6,634
+15,5NQYyej46WQkgCbnzGD21W,Dear Prudence - Remastered 2009,The Beatles,['The Beatles'],0.388,0.529,7,-10.533,1,0.16,0.0681,0.108,0.332,150.721,235773,4,145,7,695
+16,1gFNm7cXfG1vSMcxPpSxec,"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles,['The Beatles'],0.818,0.728,10,-8.331,1,0.232,0.0642,0.251,0.975,113.059,188960,4,88,9,679
+17,389QX9Q1eUOEZ19vtzzI9O,While My Guitar Gently Weeps - Remastered 2009,The Beatles,['The Beatles'],0.453,0.654,4,-8.855,0,0.0205,0.00395,0.172,0.702,115.0,285000,4,134,14,945
+18,1swmf4hFMJYRNA8Rq9PVaW,Martha My Dear - Remastered 2009,The Beatles,['The Beatles'],0.472,0.292,10,-11.591,1,0.872,0.0007,0.128,0.824,177.624,148573,4,110,8,495
+19,5jgFfDIR6FR0gvlA56Nakr,Blackbird - Remastered 2009,The Beatles,['The Beatles'],0.686,0.127,7,-14.361,1,0.754,1.41e-05,0.0573,0.372,93.699,138387,4,53,5,487
+20,5FnpXVgDOk2sLT58qM22Of,Julia - Remastered 2009,The Beatles,['The Beatles'],0.512,0.0953,2,-16.082,1,0.828,0.000268,0.117,0.193,134.706,176667,4,94,12,468
+21,64P3zpRsDHIk7YTpRtaKYL,Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009,The Beatles,['The Beatles'],0.523,0.731,2,-8.613,1,0.0207,0.000464,0.081,0.81,117.089,144773,4,71,6,549
+22,40d2EcaOOCUjDzzo2YvUWn,"Long, Long, Long - Remastered 2009",The Beatles,['The Beatles'],0.349,0.129,5,-15.883,1,0.539,0.405,0.192,0.163,104.837,186307,3,105,8,529
+23,1aOzDhi5a1RWWRy5dmYA8I,Revolution 1 - Remastered 2009,The Beatles,['The Beatles'],0.386,0.626,9,-9.451,1,0.0785,0.00164,0.621,0.695,98.425,255707,4,106,10,832
+24,32dnKMni3I3gwUbWp4mi45,"Shine On You Crazy Diamond, Pts. 1-5 - 2011 Remastered Version",Pink Floyd,['Pink Floyd'],0.266,0.294,7,-11.938,0,0.771,0.697,0.107,0.0397,137.941,811077,3,535,37,2139
+25,0i8ztWwkzwBJxviDMqYdMA,Welcome To The Machine - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.382,0.36,0,-12.442,1,0.52,0.171,0.0747,0.0362,133.273,451681,4,248,20,1071
+26,5nfMtk9Zty1AITVo4YDhbb,Have A Cigar - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.454,0.65,4,-10.191,0,0.407,0.0498,0.589,0.72,120.154,307733,4,156,11,1043
+27,7aE5WXu5sFeNRh3Z05wwu4,Wish You Were Here - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.481,0.262,7,-15.73,1,0.735,0.0114,0.832,0.375,122.883,334744,4,168,11,808
+28,2YMN5C5XDSsqCHSoJIbOzj,"Shine On You Crazy Diamond, Pts. 6-9 - 2011 Remastered Version",Pink Floyd,['Pink Floyd'],0.287,0.485,7,-13.155,0,0.577,0.898,0.322,0.127,135.86,747325,3,509,33,2116
+29,4xHWH1jwV5j4mBYRhxPbwZ,Time - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.358,0.48,9,-11.79,1,0.521,0.00428,0.178,0.356,120.317,413947,4,219,15,1389
+30,25tZHMv3ctlzqDaHAeuU9c,The Great Gig In The Sky - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.275,0.216,5,-13.818,1,0.768,0.897,0.0832,0.181,116.388,283872,4,136,10,675
+31,3zJRvtQkHQRTNEXSY8jQPR,Breathe (In The Air) - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.431,0.375,11,-15.142,0,0.391,0.721,0.143,0.258,128.153,169535,4,89,8,534
+32,23dTQ4fjLrPPbYHamkJDzo,Pigs (Three Different Ones) [2011 - Remaster],Pink Floyd,['Pink Floyd'],0.419,0.574,4,-12.221,0,0.102,0.462,0.895,0.345,129.26,685880,4,375,36,2433
+33,33MQVOulAb4ZlUP2l3yZBG,Sheep - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.28,0.716,9,-12.095,0,0.0648,0.512,0.512,0.0616,135.409,619079,4,340,19,2393
+34,7rPzEczIS574IgPaiPieS3,"Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",Pink Floyd,['Pink Floyd'],0.694,0.394,0,-15.881,1,0.0781,0.000677,0.247,0.719,104.126,238747,4,103,10,837
+35,5UJmwdqGP7RONuVzYnHjUp,Hey You - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.588,0.301,0,-14.979,1,0.221,0.00236,0.128,0.19,112.458,278441,4,130,12,855
+36,7Fg4jpwpkdkGCvq1rrXnvx,Comfortably Numb - 2011 Remastered Version,Pink Floyd,['Pink Floyd'],0.472,0.366,11,-12.595,0,0.15,0.308,0.0837,0.171,127.167,382297,4,203,20,1141
+37,5kLg9cdm7LayfkyaxVZKdD,Marooned - 2011 Remaster,Pink Floyd,['Pink Floyd'],0.412,0.34,7,-14.836,1,0.386,0.574,0.12,0.144,74.212,330385,4,100,14,887
+38,6ATouqjf03zPCRCwE892UN,Take It Back - 2011 Remaster,Pink Floyd,['Pink Floyd'],0.469,0.602,7,-11.156,1,0.133,0.00613,0.273,0.131,112.427,372226,4,173,16,1393
+39,236mI0lz8JdQjlmijARSwY,High Hopes - 2011 Remaster,Pink Floyd,['Pink Floyd'],0.52,0.411,0,-12.536,0,0.202,0.153,0.351,0.28,75.235,510965,4,162,17,1302
+40,08QGWV2nWYOG60RMsVbMwA,5 A.M.,David Gilmour,['David Gilmour'],0.199,0.144,7,-17.358,1,0.931,0.879,0.0394,0.122,73.047,184880,4,59,3,454
+41,6IYLjqSKQ4ma8FwlZd9LLI,Rattle That Lock,David Gilmour,['David Gilmour'],0.71,0.62,0,-11.62,0,0.325,0.0,0.165,0.786,120.068,295573,4,145,11,982
+42,2ass5WHAxtgwlOGKItxoMi,Faces of Stone,David Gilmour,['David Gilmour'],0.369,0.315,2,-13.19,0,0.205,3.53e-05,0.102,0.102,149.878,332187,3,271,14,963
+43,2kG3PtuCAbyXGUyxqDAc8d,Today,David Gilmour,['David Gilmour'],0.507,0.617,4,-12.28,0,0.0402,0.000519,0.101,0.23,94.031,355680,4,138,11,1232
+44,4Y1pFoYkE9aulSGRD39nqU,Keep Yourself Alive - 2011 Mix,Queen,['Queen'],0.442,0.736,9,-9.546,1,0.257,7.31e-05,0.157,0.597,134.21,227467,4,125,15,961
+45,6PT7wUJefYPEU1lX1lcLRJ,Doing Alright - Remastered 2011,Queen,['Queen'],0.339,0.286,9,-12.334,1,0.752,2.71e-05,0.085,0.192,93.013,249213,4,90,11,771
+46,385Urz8Qa8CIcK9tl3SA8g,Great King Rat - Remastered 2011,Queen,['Queen'],0.35,0.845,4,-12.339,0,0.0424,0.000622,0.111,0.421,135.252,342880,4,195,12,1437
+47,2msar6CW5wBQlhm3YCYPTa,The Night Comes Down - Remastered 2011,Queen,['Queen'],0.406,0.57,7,-12.374,1,0.692,0.00219,0.396,0.642,142.792,263027,4,162,12,887
+48,4jhf92TFSbLis5IFBEgimq,Father To Son - Remastered 2011,Queen,['Queen'],0.155,0.646,0,-11.086,1,0.208,6.78e-05,0.188,0.213,155.32,373853,4,240,12,1014
+49,0TiXAAVOLdhZnto4Kwsgtm,White Queen (As It Began) - Remastered 2011,Queen,['Queen'],0.242,0.296,9,-12.441,0,0.829,3.79e-05,0.133,0.172,153.293,273200,4,170,11,827
+50,04XOESV0aVnKMlUU1NhIG1,Nevermore - Remastered 2011,Queen,['Queen'],0.366,0.398,5,-11.527,1,0.873,2.9e-06,0.13,0.181,117.705,78667,3,49,5,263
+51,5XL2uuMLIYLefXJsxmLXus,Brighton Rock - Remastered 2011,Queen,['Queen'],0.354,0.843,11,-9.17,0,0.355,0.0126,0.789,0.348,137.62,310013,4,147,15,1172
+52,2AKOOhml62GZNFWDN7VqzT,Killer Queen - 2011 Mix,Queen,['Queen'],0.535,0.651,10,-6.326,1,0.391,0.0,0.133,0.612,117.218,179600,4,88,12,634
+53,1zqzDv6vyh8JUHiG4yaElS,She Makes Me (Stormtrooper In Stilettos) - Remastered 2011,Queen,['Queen'],0.461,0.533,2,-7.677,1,0.17,0.00021,0.119,0.371,77.031,249200,4,79,9,586
+54,2BlNyI35idBaI6BN6WGZeQ,Love Of My Life - Remastered 2011,Queen,['Queen'],0.329,0.179,5,-11.589,1,0.933,5.04e-06,0.115,0.255,154.175,217387,4,136,13,668
+55,4u7EnebtmKWzUH433cf5Qv,Bohemian Rhapsody - 2011 Mix,Queen,['Queen'],0.414,0.404,0,-9.928,0,0.271,0.0,0.3,0.224,71.105,354320,4,105,17,1087
+56,2ISPUUp4pzssWuR2Ic09vR,God Save The Queen - Remastered 2011,Queen,['Queen'],0.17,0.293,7,-15.308,1,0.754,0.857,0.279,0.24,117.483,75333,4,32,4,148
+57,6aNP9GlBi3VHPXl7w3Qjr9,'39 - 2011 Mix,Queen,['Queen'],0.524,0.571,8,-9.686,1,0.0271,0.0,0.111,0.373,101.626,210800,4,87,10,753
