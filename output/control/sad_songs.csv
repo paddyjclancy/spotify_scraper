@@ -1,0 +1,61 @@
+,id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,num_bars,num_sections,num_segments
+0,4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,['Conan Gray'],0.357,0.425,5,-7.301,1,0.584,0.0,0.322,0.27,102.078,198040,3,116,11,612
+1,45bE4HXI0AwGZXfZtMp8JR,you broke me first,Tate McRae,['Tate McRae'],0.642,0.374,4,-9.386,1,0.786,0.0,0.0906,0.0799,124.099,169266,4,84,12,571
+2,5kcvBnt6DPX3AMEsCx1qDh,Happiest Year,Jaymes Young,['Jaymes Young'],0.501,0.167,1,-14.061,1,0.885,0.0,0.111,0.356,112.275,228443,3,148,12,582
+3,1ZMiCix7XSAbfAJlEZWMCp,Falling,Harry Styles,['Harry Styles'],0.567,0.267,4,-6.502,1,0.839,1.46e-06,0.089,0.0592,110.011,240133,4,110,12,693
+4,47EWMOElkkbMp5m9SBkx7d,IDK You Yet,Alexander 23,['Alexander 23'],0.629,0.306,1,-11.735,1,0.884,0.0776,0.124,0.191,76.994,184638,1,58,9,586
+5,6ZC0G0vb5tr86xeJP766Ok,Drop Dead,Holly Humberstone,['Holly Humberstone'],0.577,0.393,0,-7.322,1,0.586,0.000181,0.0927,0.132,89.858,177162,4,64,8,569
+6,4Y5gx8VuShNmakYGlnrUzD,Surrender,Natalie Taylor,['Natalie Taylor'],0.39,0.448,5,-8.57,0,0.8,0.182,0.107,0.077,144.89,183103,5,102,10,466
+7,4TRL1Y8sOR54I3AvRzUZHk,we'll be fine,Luz,['Luz'],0.563,0.382,10,-11.138,1,0.748,0.0,0.0714,0.197,120.802,262960,4,130,11,782
+8,2zEh9FgszAX9ms1rdOeDX0,The Sun Will Rise,Rhys Lewis,['Rhys Lewis'],0.336,0.167,10,-11.901,1,0.904,0.000312,0.129,0.188,106.351,183227,3,105,10,424
+9,6dTBKBqIN4324sThIkZpMj,If The World Was Ending,JP Saxe,"['JP Saxe', 'Julia Michaels']",0.378,0.47,1,-10.095,1,0.863,0.0,0.0954,0.602,75.955,208687,4,79,8,732
+10,0kIpJQHzu46yw6q3V78Ypt,Safe Inside - Acoustic,James Arthur,['James Arthur'],0.392,0.303,8,-9.01,1,0.855,4.05e-05,0.112,0.3,109.758,232592,4,94,8,727
+11,32zCAMtxlehzVD0YOVzVkz,Arms Around You,Jamie Grey,['Jamie Grey'],0.53,0.271,11,-9.847,1,0.841,0.0,0.103,0.392,101.796,191147,4,79,10,586
+12,7wXCmUm9LMYdhhRkHzxt4L,Don't Need Love - Acoustic,220 KID,"['220 KID', 'GRACEY']",0.628,0.303,7,-8.63,0,0.882,0.0,0.101,0.47,114.762,180467,4,85,10,570
+13,6TYlDTa9AQDvjqwbxlvFyI,Conversations in the Dark,John Legend,['John Legend'],0.372,0.355,8,-8.436,0,0.754,0.0,0.167,0.142,126.705,237427,4,122,12,741
+14,0gySkOOewOdZtHG8stPEB8,Young & Sad,Noah Cyrus,['Noah Cyrus'],0.618,0.428,7,-8.5,0,0.592,0.0,0.192,0.359,142.021,190183,4,107,7,555
+15,55Qllj3GpyhKb8Cd2c0lUy,Late Night Therapy,flowerkid,['flowerkid'],0.33,0.309,7,-8.019,1,0.898,0.0,0.0965,0.062,65.004,358145,4,175,16,867
+16,39Kwdk4oDypLZ5d2aRAj5W,Is It Just Me?,Emily Burns,['Emily Burns'],0.716,0.316,1,-6.902,0,0.746,0.0,0.104,0.243,73.037,203731,4,59,7,620
+17,139rcVdF6LMk1t7Cyex2uo,Learn To Let Go,St. Lundi,['St. Lundi'],0.473,0.309,11,-9.086,1,0.62,0.0,0.152,0.316,135.791,210094,4,115,9,508
+18,2ccNaerby1wXA993dY6XsR,if this is the last time,LANY,['LANY'],0.565,0.586,11,-7.726,1,0.0175,0.0,0.204,0.43,147.986,203842,4,125,7,722
+19,53bCcVMGv0S2aIYvfju2Tt,Crying Over You,The Band CAMINO,"['The Band CAMINO', 'Chelsea Cutler']",0.463,0.411,11,-8.25,1,0.679,0.0,0.0453,0.163,147.3,178950,4,104,8,518
+20,6wQgV6ZYt1snXyQV69mGT4,Body,Jordan Suaste,['Jordan Suaste'],0.452,0.325,4,-8.687,0,0.627,0.0,0.0645,0.33,97.987,205402,4,82,6,686
+21,27Y1N4Q4U3EfDU5Ubw8ws2,What They'll Say About Us,FINNEAS,['FINNEAS'],0.518,0.312,7,-13.318,0,0.918,0.000569,0.122,0.103,144.987,186754,4,106,7,479
+22,3pg8SqwcnJgHPcnWBY9tVB,Call Me When It's Over,James Smith,['James Smith'],0.482,0.347,6,-9.776,1,0.627,3.69e-05,0.144,0.511,172.732,227801,4,163,10,731
+23,3UktGQO4TaIN3Jn7YtJoZr,Wait For Me,Jack Curley,['Jack Curley'],0.73,0.688,10,-7.56,0,0.448,0.0,0.0954,0.694,135.986,221728,4,122,10,874
+24,2smg1NNlkCgQNLbqwdn3bv,I'm Not Ok,RHODES,['RHODES'],0.394,0.35,5,-7.751,1,0.517,0.0,0.0738,0.163,125.941,203928,4,90,7,594
+25,0Hbn9DrKJiXgoQdVSwBn7B,Fix You - Live,Sam Smith,['Sam Smith'],0.345,0.34,1,-9.337,1,0.805,1.74e-05,0.125,0.302,136.222,257651,4,146,11,721
+26,2SSwlNE1JKhLZAjtKjxg6O,Unconditional,Aaron Smith,['Aaron Smith'],0.438,0.309,8,-9.022,0,0.886,1.78e-06,0.21,0.314,137.705,203000,4,113,11,587
+27,6pQUQdaZacg722q6sg6fPR,Blame,Grace Carter,"['Grace Carter', 'Jacob Banks']",0.34,0.398,6,-8.156,0,0.781,6.08e-05,0.193,0.197,171.391,251527,3,236,12,804
+28,7FRICngbPiyTPEKF7wRC9G,Seven,Claudia Valentina,['Claudia Valentina'],0.801,0.143,7,-10.698,0,0.865,0.0,0.132,0.562,119.891,223827,4,109,10,731
+29,01iY9wuMjG4Q5GMCebu27S,My Mistakes,Matthew Nolan,['Matthew Nolan'],0.464,0.268,8,-10.288,1,0.878,0.0,0.0939,0.167,143.755,194167,4,99,7,601
+30,3kswR4VNp2z8f8VXUHfTSD,Say Something,Kodaline,['Kodaline'],0.34,0.354,4,-9.079,1,0.0454,0.0,0.167,0.216,103.838,233999,4,92,9,720
+31,1zY6ekSJ8VI6tZ6nBqoo7g,I Need You To Hate Me,JC Stewart,['JC Stewart'],0.637,0.589,9,-5.618,0,0.0298,0.0,0.11,0.376,148.925,157447,4,96,9,572
+32,6CfAtjogau9v9kmtZVrNG8,If We're Being Honest,Novo Amor,['Novo Amor'],0.498,0.432,3,-7.297,1,0.888,0.617,0.136,0.126,132.928,235053,4,124,11,675
+33,5c1gKtJkR8dPjki25BU7Qz,hurt so bad,Cian Ducrot,['Cian Ducrot'],0.461,0.452,2,-6.529,1,0.337,0.0,0.269,0.282,168.074,242489,3,224,11,768
+34,6fGSHpEipD1YjtLLChnBzW,Friend,Gracie Abrams,['Gracie Abrams'],0.7,0.494,4,-4.908,1,0.742,0.0,0.304,0.229,132.943,176947,4,96,11,602
+35,2tSDwInMbSGmUySTeUgO5e,Love Like That,Lauv,['Lauv'],0.679,0.481,3,-9.045,1,0.208,1.02e-05,0.284,0.486,80.011,184557,4,62,8,617
+36,1jXKRARVJQFG3jTvZEgxsP,Bedroom Ceiling,Sody,['Sody'],0.49,0.416,6,-7.702,1,0.728,0.0,0.0694,0.236,125.928,180086,4,117,10,659
+37,5dF24wkOEPkyeLRzw6qDBL,Die for You,Dirty Blond,['Dirty Blond'],0.46,0.253,6,-7.921,1,0.807,0.0,0.118,0.357,135.82,191321,4,105,8,502
+38,5IMMISEvjmRxNxcTbUj7KN,Everybody's Got Somebody,Sam Fischer,['Sam Fischer'],0.574,0.59,7,-7.842,1,0.186,0.0,0.493,0.409,139.329,190870,4,108,9,660
+39,2IRbE07lRmXCC6jrUQHINL,Changes,Jack Vallier,['Jack Vallier'],0.631,0.485,7,-8.774,0,0.17,2.23e-05,0.0772,0.0999,99.892,180107,4,73,10,634
+40,74I76sDq0rPJV3FP4fq44d,Overused (feat. gnash),Clara Mae,"['Clara Mae', 'gnash']",0.503,0.525,0,-7.79,1,0.647,0.0,0.104,0.681,115.6,161196,4,90,9,566
+41,7xWIEXBRkxD30V28lTjVJg,Love You Twice,Lilla Vargen,['Lilla Vargen'],0.497,0.118,7,-11.996,1,0.864,4.13e-05,0.116,0.164,95.113,204736,3,102,8,607
+42,5t8nGUXKPnNkUJ3oJkQVIP,Forever (To Feel Like Tonight),April,['April'],0.552,0.639,7,-10.425,1,0.0692,0.125,0.112,0.0541,99.952,219053,4,88,8,763
+43,6cnurFx9S8dHnzEwfvEdLF,Choices,Benedict Cork,['Benedict Cork'],0.405,0.155,0,-12.775,1,0.921,1.2e-06,0.116,0.152,68.694,188800,4,52,7,505
+44,4f4cfvGeRK3t2rNZcB4ybd,Rescue Me,James Gillespie,['James Gillespie'],0.56,0.712,10,-7.862,0,0.355,1.83e-05,0.212,0.375,80.919,196027,4,65,10,755
+45,25XifMcAWmG4K6g6QB2fY9,Somebody Else,Navvy,['Navvy'],0.687,0.357,6,-8.216,1,0.0782,0.0,0.301,0.404,154.0,217690,4,138,10,743
+46,6bIb3cENmrDlWRZgGfsr8d,Room to breathe,ROE,['ROE'],0.421,0.212,6,-12.271,1,0.674,0.0,0.216,0.223,111.475,204375,4,95,10,603
+47,09svEvkmTi9vw4kWRyBC6X,Slow Motion,Charlotte Lawrence,['Charlotte Lawrence'],0.665,0.61,0,-7.655,0,0.423,0.0,0.127,0.473,127.976,183850,4,97,10,614
+48,28WzLDIBpcD5UhWIOktTrr,Elsewhere,Minke,['Minke'],0.549,0.186,0,-13.781,1,0.926,0.0004,0.151,0.199,110.152,272727,4,121,13,740
+49,4wed9fstdS4hsJl2GpF0v0,Don't Feel,Tiz McNamara,['Tiz McNamara'],0.339,0.0583,9,-13.061,0,0.983,0.000264,0.104,0.213,178.931,209373,3,202,7,400
+50,6f0uPbLg8inuvKdhs4actG,Remember Me Well,Christy,['Christy'],0.543,0.214,9,-13.24,1,0.972,2.03e-06,0.174,0.308,106.008,173027,4,74,7,553
+51,5kg8GtzTnFQJXtUOHaRsJ8,Dear Life,Mathilda Homer,['Mathilda Homer'],0.618,0.408,0,-7.267,0,0.744,2.64e-06,0.0931,0.213,107.98,212671,4,92,11,649
+52,4UwI05z2cvRJpChY8qmOop,Crawl,Blakey,['Blakey'],0.707,0.492,4,-7.294,1,0.63,0.0,0.434,0.693,112.017,188571,5,86,6,759
+53,7wDn727BWO03K7A4kNoVtw,Charlotte,Sody,['Sody'],0.363,0.339,0,-10.208,1,0.622,0.000107,0.0968,0.0484,178.405,216624,3,195,9,748
+54,1DLCl1vO001CvNoAFtxhNk,Alone In My Room (Gone),GRACEY,['GRACEY'],0.638,0.456,8,-8.557,1,0.623,6.35e-06,0.0789,0.348,102.932,214559,4,91,10,696
+55,6BjEW9LWLesnpDUDkUGVbL,The Thing Is,Hannah Trigwell,['Hannah Trigwell'],0.467,0.142,1,-14.308,1,0.934,0.0,0.142,0.278,139.343,173095,4,98,7,557
+56,0C0ESa1ZZ5taXaYUxwnvx9,Warped Window,Anna Mieke,['Anna Mieke'],0.514,0.0533,8,-16.276,1,0.932,1.16e-05,0.113,0.176,113.861,295266,4,126,10,786
+57,5dCbFy9uDWZ2l0J1JmBLT5,Baby Come Home,Olivia Dean,['Olivia Dean'],0.549,0.285,6,-10.175,0,0.792,7.38e-05,0.111,0.176,81.037,188321,4,62,9,563
+58,0CFf5n5yNQs8cfjsPN0Psi,Girl,SAYGRACE,['SAYGRACE'],0.768,0.41,6,-7.615,0,0.502,0.0,0.102,0.307,115.994,217374,4,104,10,796
+59,7ooqBZQloVHOGMVmiSccTo,Sad Girl Summer - emo version,Maisie Peters,['Maisie Peters'],0.428,0.443,9,-9.392,0,0.47,8.16e-05,0.136,0.413,167.535,167990,4,95,9,695

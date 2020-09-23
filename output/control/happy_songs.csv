@@ -1,0 +1,101 @@
+,id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,num_bars,num_sections,num_segments
+0,4Z1fbYp0HuxLBje4MOZcSD,Twist And Shout - Remastered,The Beatles,['The Beatles'],0.482,0.849,2,-9.198,1,0.641,7.74e-06,0.0414,0.937,124.631,155227,4,77,6,507
+1,6Ac4NVYYl2U73QiTt11ZKd,Hooked on a Feeling,Blue Swede,"['Blue Swede', 'Björn Skifs']",0.547,0.82,8,-6.728,1,0.261,0.0,0.3,0.933,118.208,172867,4,85,6,606
+2,5dKBaysNJtfpyNTRa5lqDb,A-Punk,Vampire Weekend,['Vampire Weekend'],0.551,0.821,2,-4.489,1,0.0102,0.0438,0.153,0.842,174.923,137760,4,97,7,648
+3,2RknY4IqSPwagR0v5wchIW,Don't Stop Me Now,Queen,['Queen'],0.566,0.876,0,-4.6,1,0.0175,0.0114,0.677,0.642,156.291,209447,4,135,9,773
+4,4rmPQGwcLQjCoFq5NrTA0D,Uptown Funk (feat. Bruno Mars),Mark Ronson,"['Mark Ronson', 'Bruno Mars']",0.853,0.681,0,-5.003,1,0.00966,5.71e-05,0.0233,0.93,115.004,270627,4,127,9,1181
+5,6VwkgtOIlVboseFPCFnyJ2,Video Killed The Radio Star,The Buggles,['The Buggles'],0.679,0.79,1,-6.934,1,0.139,0.00669,0.165,0.369,131.177,251533,4,137,10,883
+6,1YrC8s6yZWw23QxW6rfM9f,Come,Jain,['Jain'],0.818,0.783,1,-6.534,1,0.232,0.00886,0.0803,0.819,99.992,162267,4,66,8,698
+7,3AszgPDZd9q0DpDFt4HFBy,Hey Ya! - Radio Mix,OutKast,['OutKast'],0.715,0.97,0,-2.206,1,0.0644,0.000156,0.205,0.963,79.504,239240,4,78,7,985
+8,55h7vJchibLdUkxdlX3fK7,Treasure,Bruno Mars,['Bruno Mars'],0.874,0.692,5,-5.28,0,0.0412,7.24e-05,0.324,0.937,116.017,178560,4,85,7,691
+9,6ZEAXknmx2mrO3KgcDNpFI,Wake Me Up Before You Go-Go,Wham!,['Wham!'],0.586,0.651,0,-10.16,1,0.144,0.0,0.489,0.901,81.397,223067,4,76,10,914
+10,1rIKgCH4H52lrvDcz50hS8,Lush Life,Zara Larsson,['Zara Larsson'],0.694,0.712,7,-3.923,0,0.133,0.0,0.211,0.799,98.022,201122,4,81,11,910
+11,6pc8xULSlsMdFB3OrqbvZ4,Celebration - Single Version,Kool & The Gang,['Kool & The Gang'],0.843,0.656,1,-11.184,1,0.0466,0.0187,0.169,0.931,121.112,215653,4,107,10,874
+12,0eGsygTp906u18L0Oimnem,Mr. Brightside,The Killers,['The Killers'],0.351,0.928,1,-3.71,1,0.00113,0.0,0.0988,0.239,148.03,222076,4,134,13,537
+13,213x4gsFDm04hSqIUkg88w,On Top Of The World,Imagine Dragons,['Imagine Dragons'],0.631,0.924,0,-5.589,1,0.0841,3.59e-06,0.084,0.755,100.045,192280,4,78,8,777
+14,05wIrZSwuaVWhcv5FfqeH0,Walking On Sunshine,Katrina & The Waves,['Katrina & The Waves'],0.596,0.869,10,-11.97,1,0.0116,0.173,0.0678,0.944,109.902,238733,4,108,12,1003
+15,4vnYwFOZCVl0bmerWyuzRw,Country House,Blur,['Blur'],0.341,0.894,9,-6.66,1,0.147,0.0,0.0741,0.672,174.982,237733,4,171,10,821
+16,4ZrbWwFHHjPoe7cfUBJ9WQ,I Got You (I Feel Good),James Brown,['James Brown'],0.598,0.531,7,-7.484,1,0.331,1.51e-06,0.0938,0.696,70.469,168000,3,63,8,561
+17,0ifSeVGUr7py5GggttDhXw,All About That Bass,Meghan Trainor,['Meghan Trainor'],0.811,0.879,9,-3.724,1,0.0476,1.91e-06,0.109,0.962,134.064,188754,4,103,10,759
+18,5YbgcwHjQhdT1BYQ4rxWlD,Don't Worry Be Happy,Bobby McFerrin,['Bobby McFerrin'],0.681,0.163,11,-22.597,1,0.881,7.62e-05,0.0688,0.771,69.283,292400,4,85,13,1108
+19,24fXShNbufmThxBTWWPfO1,Cassy O',George Ezra,['George Ezra'],0.544,0.847,2,-4.794,1,0.0462,0.0,0.336,0.168,97.974,184133,4,72,10,607
+20,6W99yGcIH43jskdRA7idD3,Gimme Hope Jo'Anna,Eddy Grant,['Eddy Grant'],0.896,0.704,10,-12.148,1,0.401,0.132,0.0884,0.98,128.685,243696,4,128,13,1036
+21,3O0FuEfTpt3Zn6J3pXrXVO,Little Talks,Of Monsters and Men,['Of Monsters and Men'],0.466,0.801,1,-5.175,1,0.0209,0.0,0.241,0.379,103.197,267413,4,110,8,831
+22,4er8NyQ8cFnZ2b643Tjc44,Shiny Happy People,R.E.M.,['R.E.M.'],0.491,0.87,9,-5.99,1,0.00361,0.126,0.184,0.814,124.444,224800,4,114,9,780
+23,4L8gG0XMQzKJfmygtHV5qZ,My Girls,The Vanjas,['The Vanjas'],0.642,0.855,11,-3.194,1,0.0166,0.193,0.27,0.623,136.062,165905,4,90,4,529
+24,7KdF7Zac5eC9jutk9Qret4,The Wire,HAIM,['HAIM'],0.548,0.632,2,-5.569,1,0.0126,4.95e-06,0.0769,0.535,113.682,245800,4,129,12,1000
+25,5olYKlNYCELRBQzxQ6Tr1V,Everybody Needs Somebody To Love,The Blues Brothers,['The Blues Brothers'],0.525,0.686,5,-8.879,1,0.18,2.66e-06,0.274,0.91,193.667,150126,4,119,7,548
+26,04MNyOQZDvLsW2gjAm9q2L,Love Natural,Crystal Fighters,['Crystal Fighters'],0.654,0.791,11,-6.243,1,0.0392,0.0,0.321,0.603,133.042,199526,4,109,9,776
+27,0KpfYajJVVGgQ32Dby7e9i,"Hey, Soul Sister",Train,['Train'],0.675,0.885,1,-4.432,0,0.217,0.0,0.086,0.768,97.03,216667,4,85,10,819
+28,5bcTCxgc7xVfSaMV3RuVke,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Calvin Harris,"['Calvin Harris', 'Pharrell Williams', 'Katy Perry', 'Big Sean', 'Funk Wav']",0.893,0.745,11,-3.105,0,0.0642,0.0,0.0943,0.872,101.018,223413,4,93,7,905
+29,1iRlSxYYKp4T7TAgqt5jT4,Hot Pink Tiger,Limón Limón,['Limón Limón'],0.693,0.754,4,-7.57,0,0.00828,0.0198,0.445,0.432,123.98,229920,4,117,10,947
+30,0Me1AKVY2wzxOKLMiaAtNy,Best Fake Smile,James Bay,['James Bay'],0.689,0.887,11,-4.27,1,0.0231,0.0,0.275,0.937,142.014,205027,4,119,11,796
+31,2Foc5Q5nqNiosCNqttzHof,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,"['Daft Punk', 'Pharrell Williams', 'Nile Rodgers']",0.794,0.811,6,-8.966,0,0.0426,1.07e-06,0.101,0.862,116.047,248413,4,119,13,1244
+32,3cQzrjkL2UaGLX1abHxaIz,I'm Alive,TTRRUUCES,['TTRRUUCES'],0.638,0.85,9,-4.251,1,0.0733,0.0122,0.0867,0.545,100.015,229227,4,94,10,840
+33,3v8PlUFGQQDBIk1J86waCo,Should I Stay or Should I Go - Remastered,The Clash,['The Clash'],0.742,0.844,2,-6.441,1,0.0838,0.0,0.418,0.85,113.371,188240,4,86,6,631
+34,3JvrhDOgAt6p7K8mDyZwRd,Riptide,Vance Joy,['Vance Joy'],0.484,0.731,1,-6.694,1,0.431,0.0,0.151,0.51,101.654,204280,4,87,6,838
+35,1bxa0TPdBMHPeZFHe0adCw,Don't Slack (from Trolls World Tour),Anderson .Paak,"['Anderson .Paak', 'Justin Timberlake']",0.618,0.837,9,-5.574,1,0.0842,0.0,0.344,0.8,168.114,174800,4,117,13,756
+36,6QgjcU0zLnzq5OrUoSZ3OK,Feel It Still,Portugal. The Man,['Portugal. The Man'],0.801,0.795,1,-5.115,0,0.0417,0.000113,0.0717,0.754,79.028,163253,4,52,8,726
+37,1hy6Dic0L5SU1XqjhYY1TR,Accidentally In Love,Counting Crows,['Counting Crows'],0.556,0.929,7,-3.659,1,0.0499,1.7e-06,0.0931,0.842,137.996,188893,4,103,8,603
+38,2kiJ5lZQZusgWwpqA7z2i1,I'm Good,The Mowgli's,"[""The Mowgli's""]",0.613,0.923,0,-5.234,1,0.00892,0.0,0.149,0.669,96.043,166920,4,64,6,571
+39,7w4Tbkbx081vRJa8ol56Qf,Walk Of Life,Dire Straits,['Dire Straits'],0.461,0.936,4,-6.824,1,0.416,0.000135,0.136,0.811,172.43,249333,4,175,11,1047
+40,6fWMEDCURTkeP9bPYvzcJe,Homerun (Radio Edit),The Brahms,['The Brahms'],0.532,0.831,9,-4.359,1,0.0104,0.000183,0.0801,0.764,93.948,159407,4,59,10,581
+41,6pyex9B1kBoRIuabBAc4m8,Jailhouse Rock,Elvis Presley,['Elvis Presley'],0.635,0.672,10,-6.788,0,0.314,5.03e-06,0.0688,0.895,166.903,155333,4,107,12,623
+42,5zsvG3RApT8qMVl7673FqF,Shine On,The Kooks,['The Kooks'],0.466,0.634,6,-5.3,1,0.0763,0.0,0.0678,0.324,128.992,194240,4,101,10,622
+43,4Sqc0kPuZpfI0T2TZBu8JT,Grace Kelly,MIKA,['MIKA'],0.676,0.824,0,-5.752,1,0.0271,0.0152,0.363,0.696,122.221,187733,4,94,8,706
+44,6nzhhT57iQYrbqumru9NNP,ABC,The Jackson 5,['The Jackson 5'],0.559,0.752,8,-10.046,1,0.448,0.00061,0.0907,0.946,187.712,179973,4,136,9,697
+45,58E5eiErWFE5oU9eSCa5ZA,Toucan,Camo Columbo,['Camo Columbo'],0.899,0.79,4,-3.651,1,0.793,0.155,0.111,0.92,107.985,166667,4,72,6,679
+46,3pf96IFggfQuT6Gafqx2rt,Sunny,Boney M.,['Boney M.'],0.647,0.868,0,-6.427,0,0.0876,0.124,0.129,0.803,121.822,242240,4,121,10,1012
+47,4MFCXniy7I8tj0GXtf3wgC,Adventure of a Lifetime,Coldplay,['Coldplay'],0.638,0.924,7,-3.887,1,0.00205,0.000173,0.149,0.529,111.995,263787,4,120,9,1149
+48,0BbA7S30mOQB94e4IBnqCt,Tainted Love - Single Version,Gloria Jones,['Gloria Jones'],0.516,0.684,8,-5.659,1,0.652,0.0,0.685,0.84,161.167,131160,4,87,6,486
+49,7BXToqZFtclAj6mshYWena,Jungle Drum,Emilíana Torrini,['Emilíana Torrini'],0.636,0.881,2,-5.376,1,0.134,0.00952,0.074,0.845,118.237,133467,4,62,7,645
+50,44AXd3UVaaVYsSQqBpnYO2,Best Day Of My Life,American Authors,['American Authors'],0.673,0.901,2,-2.379,1,0.0525,0.000535,0.0736,0.503,100.002,194093,4,80,9,721
+51,66S14BkJDxgkYxLl5DCqOz,I'm Gonna Be (500 Miles),The Proclaimers,['The Proclaimers'],0.851,0.551,4,-5.177,1,0.151,0.0,0.0827,0.807,131.922,219467,4,116,10,731
+52,1Q8reqCOXg2yqNr47HGo9X,Norgaard,The Vaccines,['The Vaccines'],0.323,0.847,11,-4.716,1,5.12e-06,0.0208,0.25,0.859,173.914,98400,4,68,7,318
+53,3CSpzkoL1XgDBZ1q9aDCUV,Uptown Girl,Billy Joel,['Billy Joel'],0.696,0.943,4,-2.962,1,0.0736,0.0,0.653,0.833,129.003,194867,4,103,10,697
+54,6TMzuNLw1ZPgBqPKmnnObm,Desire,Years & Years,"['Years & Years', 'Tove Lo']",0.706,0.777,10,-4.591,0,0.299,0.0,0.298,0.638,126.008,203204,4,105,8,786
+55,0FXJkC3XA6UOyvti331jQw,"Rudy, A Message To You",Dandy Livingstone,['Dandy Livingstone'],0.936,0.414,9,-8.942,0,0.0211,0.453,0.11,0.899,107.438,152880,4,67,7,562
+56,6i9uagZQiliNoEW8Jp10dX,It's Love (but it's not mine),EUT,['EUT'],0.516,0.805,5,-8.017,1,0.000178,0.00135,0.413,0.72,136.67,223813,4,126,9,819
+57,20CNpCKq1oTdvekXaboyeq,Friday I'm In Love,The Cure,['The Cure'],0.526,0.763,0,-12.663,0,0.00126,6.75e-05,0.359,0.514,136.205,215160,4,116,12,783
+58,6WP4WTHzaPTCk1QrbRLhgL,My Type,Saint Motel,['Saint Motel'],0.594,0.83,10,-5.727,1,0.0288,0.0215,0.261,0.69,117.973,203527,4,99,10,711
+59,5Q7cE6wGHMehLFo2ppkk5D,One Way Or Another,Blondie,['Blondie'],0.445,0.872,6,-6.294,0,0.00402,0.00909,0.047,0.834,162.407,208360,4,141,10,787
+60,397fm8R9ws5tpHQhV4XSOT,Alive,Camo Columbo,['Camo Columbo'],0.861,0.36,0,-8.234,0,0.833,0.000516,0.68,0.595,120.987,185455,4,92,8,673
+61,2qONptRzQM0D3BGOgAsapI,The Bad Touch,Bloodhound Gang,['Bloodhound Gang'],0.818,0.688,0,-7.083,0,0.00209,0.0541,0.282,0.971,122.983,259507,4,133,10,1118
+62,36phXHOKx8rO7CMp2vNX4x,Love Myself,Hailee Steinfeld,['Hailee Steinfeld'],0.617,0.759,0,-6.785,0,0.0026,0.0,0.419,0.324,122.924,218773,4,111,8,765
+63,2Rkfv2emuT4A1QU6dJmf5V,Modern Love - Single Version; 2002 Digital Remaster,David Bowie,['David Bowie'],0.464,0.895,0,-7.683,1,0.00227,0.00394,0.13,0.932,91.905,238293,4,90,9,945
+64,1bCmvezFg5MRcENzCGG1Cy,Chelsea Dagger,The Fratellis,['The Fratellis'],0.511,0.815,7,-3.14,1,0.0491,0.0,0.0826,0.586,154.514,215307,4,136,10,700
+65,2DX0WG5OGLQLaXb41Cq1IA,I Will Survive - Remastered,Gloria Gaynor,['Gloria Gaynor'],0.704,0.631,9,-12.299,0,0.0346,0.0,0.159,0.793,123.286,295667,4,149,13,1246
+66,1SZN00cfG8T8UxDmJeqjuv,Let's Fall in Love Some More,Al Bairre,['Al Bairre'],0.607,0.924,7,-5.684,1,0.0668,0.0,0.117,0.778,134.975,198827,4,110,11,846
+67,52MW2hwNmLa0KdsZZk8360,Start Me Up,The Rolling Stones,['The Rolling Stones'],0.629,0.905,5,-4.745,1,0.0273,0.199,0.0644,0.967,122.448,212960,4,107,10,783
+68,4HRa9ZWcmZ8JD7UySPu0wT,Don't Stop (Color on the Walls),Foster The People,['Foster The People'],0.611,0.948,1,-3.751,0,0.00183,0.0995,0.0969,0.79,133.004,174920,4,94,10,606
+69,5p9XWUdvbUzmPCukOmwoU3,Suddenly I See,KT Tunstall,['KT Tunstall'],0.587,0.767,0,-5.713,1,0.225,0.0,0.112,0.664,100.38,201707,4,80,10,835
+70,1WEIYjmuAvmtqehGrekY65,Devil Dance,The Tints,['The Tints'],0.596,0.832,11,-4.203,1,0.000563,0.000161,0.259,0.643,120.005,229343,4,111,11,816
+71,7sVxvaLH9Bx9YZyBjdRpdQ,Surfin' U.S.A. - Remastered,The Beach Boys,['The Beach Boys'],0.55,0.868,3,-5.472,1,0.656,0.0,0.136,0.962,158.563,148627,4,96,11,609
+72,5XMjXjwCkJVmk0AHm7z8IV,Jerk It Out,Caesars,['Caesars'],0.58,0.981,8,-2.603,0,0.0171,1.07e-05,0.386,0.861,134.007,195667,4,106,9,758
+73,4GAI8BxeMgrvhZNEU59UfR,"Sugar, Sugar",The Archies,['The Archies'],0.757,0.647,2,-10.264,1,0.757,3.08e-06,0.0972,0.97,122.771,169627,4,84,9,667
+74,1r7rNbAcw17mhrap3ofjSb,Confident,LEFT.,['LEFT.'],0.507,0.599,0,-7.074,0,0.0079,0.0,0.0909,0.516,89.932,177778,4,65,8,681
+75,1YyHm1dSJ2JBK0QK769Z82,Baby Love,Petite Meller,['Petite Meller'],0.621,0.915,1,-5.224,1,0.2,0.00332,0.0964,0.818,130.013,221722,4,120,11,930
+76,7pQAq14Z73YUFMtxCyt0bG,Can't Buy Me Love - Remastered 2015,The Beatles,['The Beatles'],0.426,0.76,0,-4.082,1,0.118,0.0,0.325,0.955,171.838,131213,4,90,9,475
+77,4gTwPFGhIIlYtlo59jbVUB,High,Young Rising Sons,['Young Rising Sons'],0.646,0.85,7,-5.145,1,0.028,7.21e-05,0.281,0.518,116.999,165720,4,80,9,598
+78,3E7HFO84HdWVJXzqKE82xO,I_feel_good,FATCAT,['FATCAT'],0.7,0.903,1,-5.811,1,0.013,0.0,0.194,0.96,159.95,201418,4,132,11,892
+79,6pxWv6GV35VGmcPf5dh6CH,Proud Mary,Creedence Clearwater Revival,['Creedence Clearwater Revival'],0.699,0.641,2,-7.564,1,0.13,0.000218,0.0601,0.728,120.745,187213,4,93,12,672
+80,1gStng1TuTLt0SaISWL14r,Smaller,Erik Hassle,['Erik Hassle'],0.405,0.728,7,-4.76,1,0.415,0.0,0.0777,0.342,188.701,205093,4,157,8,654
+81,0gzqZ9d1jIKo9psEIthwXe,Beautiful Day,U2,['U2'],0.536,0.928,11,-6.492,0,0.0154,0.00134,0.2,0.389,136.258,248400,4,137,8,904
+82,7zkDEBSxkcBVsStS4qBFpK,Lisztomania,Phoenix,['Phoenix'],0.635,0.786,0,-6.46,1,0.0349,0.00767,0.497,0.305,97.54,241547,4,98,8,1093
+83,1FHNctV68GUNLgXclG2DtR,Dancing in the Moonlight,Toploader,['Toploader'],0.639,0.845,10,-3.333,1,0.0528,0.0,0.336,0.871,119.485,233373,4,113,7,841
+84,5yNEdBlZMxpcVtGKz5NFk5,Side Effects (feat. Emily Warren),The Chainsmokers,"['The Chainsmokers', 'Emily Warren']",0.673,0.71,8,-6.744,1,0.00277,0.0,0.55,0.54,110.017,173613,4,78,6,685
+85,4YUlGNZfYA6EUE5KDsGqpC,You Can't Hurry Love,Phil Collins,['Phil Collins'],0.639,0.923,7,-5.708,1,0.0674,0.0,0.0879,0.761,97.874,175347,4,69,7,673
+86,4fCHoHmwmX8LgAp6A1GULJ,LA Calling,Crystal Fighters,['Crystal Fighters'],0.574,0.887,11,-6.172,1,0.0607,2.41e-06,0.334,0.622,136.057,229244,4,127,13,929
+87,3XIEWK1V9n25PS9Vb6axj5,Born to Be Alive,Patrick Hernandez,['Patrick Hernandez'],0.704,0.867,2,-5.808,1,0.0846,0.0,0.206,0.809,131.467,188133,4,103,9,837
+88,4ofwffwvvnbSkrMSCKQDaC,Shotgun,George Ezra,['George Ezra'],0.672,0.735,5,-4.733,1,0.286,0.0,0.242,0.754,115.741,201287,4,94,6,693
+89,45s88Xopo6KvHc0PQ05aGg,My Generation - Mono Version,The Who,['The Who'],0.299,0.787,0,-7.93,0,0.14,0.0,0.292,0.716,94.798,198867,4,75,11,666
+90,2fTsFCKRFQ5M0igJgabnLA,Price Tag,Jessie J,"['Jessie J', 'B.o.B']",0.636,0.831,5,-3.945,1,0.0294,3.85e-06,0.272,0.668,175.015,223053,4,158,10,924
+91,3eKkMH08IN5qbjp8wv6cV8,If You Wanna Be Happy,Jimmy Soul,['Jimmy Soul'],0.639,0.875,10,-8.231,1,0.611,1.18e-05,0.204,0.873,93.242,143229,4,54,7,543
+92,5WSdMcWTKRdN1QYVJHJWxz,Girls,The 1975,['The 1975'],0.657,0.913,11,-4.984,1,0.00392,0.00149,0.466,0.906,108.036,254620,4,113,11,1156
+93,4jKojTEsrJtUU5rNp3gbGQ,Come On Eileen,Dexys Midnight Runners,['Dexys Midnight Runners'],0.435,0.652,0,-8.495,1,0.519,0.0,0.129,0.806,108.097,273933,4,126,11,1019
+94,3zdI8HDPKoMsCRkmpQTblk,San Francisco,The Mowgli's,"[""The Mowgli's""]",0.363,0.893,11,-4.81,1,0.0131,0.0,0.0825,0.37,93.041,172893,4,65,9,534
+95,5CPayysVhU2BlNXw2kG59L,Got My Mind Set On You,Damien Leith,['Damien Leith'],0.674,0.84,1,-3.879,0,0.0338,0.000441,0.0941,0.875,150.011,227800,4,141,11,777
+96,76EeScTnI2sCjDY0SfEoSb,Work This Body,WALK THE MOON,['WALK THE MOON'],0.421,0.831,4,-5.128,1,0.0283,0.0,0.464,0.488,134.027,175907,4,96,9,657
+97,7sXxvOVFtMr31xj0kX9BFV,Hit The Road Jack,Ray Charles,['Ray Charles'],0.593,0.752,8,-6.617,0,0.0841,0.00308,0.197,0.935,172.087,129907,4,90,6,471
+98,0mIPUewslxddIZHnWuPnMD,Song Away,Hockey,['Hockey'],0.639,0.72,6,-4.253,1,0.0276,0.0,0.113,0.921,131.797,198320,4,106,7,814
+99,5RKZ9zCtLjBLTea7qkSFqr,I'm a Believer,The Monkees,['The Monkees'],0.519,0.772,0,-6.784,1,0.534,1.21e-05,0.271,0.961,79.618,166907,4,53,8,636
