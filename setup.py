@@ -147,6 +147,7 @@ features_df.to_csv("output/" + playlist_title_format + ".csv", encoding='utf-8',
 print("     - Backend Data")
 
 plt.savefig("output/" + playlist_title_format + "_figs.png")
+
 print("     - Technical structure")
 sleep(0.5)
 print("\nAnalysis complete.")
